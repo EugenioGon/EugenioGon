@@ -10,6 +10,8 @@
 
 ![Eugenio GitHub stats](https://github-readme-stats.vercel.app/api?username=EugenioGon&show_icons=true&theme=tokyonight)
 
+
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
@@ -21,4 +23,4 @@
 <img aline="center" alt="MySQL"  src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br>
 
-### Apaixonado por tecnologia, educação e por melhorar a vida das pessoas através da programação.
+### Apaixonado por tecnologia, buscando uma maneira de melhorar a vida das pessoas através da programação.

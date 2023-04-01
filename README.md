@@ -2,7 +2,7 @@
 ### Olá! Eu sou o Eugênio Gonçalves 🐱‍💻
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugenio-gon%C3%A7alv%C3%AAs-6a600824b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B98Xg9J0KR6yDpvvk6yI5zg%3D%3D)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugenio-gon%C3%A7alv%C3%AAs-6a600824b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B98Xg9J0KR6yDpvvk6yI5zg%3D%3D target="_blank")
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white )](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzBlMKzQVpKvhbhdWTCpRjTBzBFGtBfvNhcnCvDvmQKGGVNdPpBNsqbQMmhStrlTLtzrDWT)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][def]
 

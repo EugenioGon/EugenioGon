@@ -1,7 +1,7 @@
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3500&pause=2000&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Eugênio;A+future+full+stack+developer++%F0%9F%98%8E%F0%9F%91%8D+;Welcome!" alt="Typing SVG" /></a>
-<h1 align="center"> <img src="https://blogdoiphone.com/wp-content/uploads/2020/02/97387022d579d0d9806c8c3e176434f7.gif" width=60% >
+<h1 align="center"> <img src="https://blogdoiphone.com/wp-content/uploads/2020/02/97387022d579d0d9806c8c3e176434f7.gif" width=70% >
 </h1> 
 
 

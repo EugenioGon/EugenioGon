@@ -1,6 +1,3 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3500&pause=2000&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Eugênio;A+future+full+stack+developer++%F0%9F%98%8E%F0%9F%91%8D+;Welcome!" alt="Typing SVG" /></a>
-
-
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugenio-gon%C3%A7alv%C3%AAs-6a600824b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B98Xg9J0KR6yDpvvk6yI5zg%3D%3D)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white )](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzBlMKzQVpKvhbhdWTCpRjTBzBFGtBfvNhcnCvDvmQKGGVNdPpBNsqbQMmhStrlTLtzrDWT)
